@@ -6,7 +6,7 @@ const Sidebar = () => {
   return (
     <div className="text-gray-500 p-5 text-sm border-r border-gray-900">
       <Buttons />
-      <Playlist> Holaaa</Playlist>
+      <Playlist>Holaaa</Playlist>
     </div>
   );
 };
